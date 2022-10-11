@@ -18,35 +18,6 @@ Vrienden & familie kunnen zien wat er op de wishlist staat en het artikel aankop
 Er volgt een betaalproces met mogelijkheid tot toevoegen van persoonlijke boodschap.
 
 
-## Run Locally
+## URL 
 
-Clone the project
-
-```bash
-  git clone https://github.com/gdmgent-webdev2/werkstuk---geboortelijst-kyanvr.git
-```
-
-Go to the project directory
-
-```bash
-  cd werkstuk---geboortelijst-kyanvr
-```
-
-Install dependencies
-
-```bash
-  composer install
-```
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  php artisan serve
-```
-```bash
-  npm run watch
-```
-
+http://toddly-ahs.be/
